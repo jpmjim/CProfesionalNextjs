@@ -5,3 +5,6 @@
       - npm i eslint-config-prettier eslint-plugin-jsx-a11y eslint-plugin-prettier prettier -D
       - npm run eslint "nos muestra los errores que podamos tener segun la configuración que establecimos"
       - npm run eslint:fix
+  ## Integrando PostCSS y TailwindCSS a nuestro proyecto
+      - npm i postcss tailwindcss autoprefixer
+      - npx tailwindcss init -p 
