@@ -10,3 +10,8 @@
       - npx tailwindcss init -p 
   ## Configuración del archivo jsconfig.js
       - Configuracion del archivo jsconfig.json
+  ## Cómo integrar componentes predefinidos con TailwindUI
+      - https://headlessui.dev/ "npm install @headlessui/react"
+      - https://tailwindui.com/
+      - https://heroicons.com/ "Instalación npm install @heroicons/react"
+      - https://tailwindui.com/components/marketing/sections/heroes "UI que usaremos"
