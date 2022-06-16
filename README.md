@@ -8,3 +8,5 @@
   ## Integrando PostCSS y TailwindCSS a nuestro proyecto
       - npm i postcss tailwindcss autoprefixer
       - npx tailwindcss init -p 
+  ## Configuración del archivo jsconfig.js
+      - Configuracion del archivo jsconfig.json
