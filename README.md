@@ -15,3 +15,5 @@
       - https://tailwindui.com/
       - https://heroicons.com/ "Instalación npm install @heroicons/react"
       - https://tailwindui.com/components/marketing/sections/heroes "UI que usaremos"
+  ## Commons Components
+      - Trayendo elementos de esta pagina "https://github.com/GNDX/NEXTJS-UI"
