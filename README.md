@@ -23,3 +23,6 @@
       - Trabajando en el Login
   ## Presentación de la API
       - Usando esta API https://api.escuelajs.co/docs/#/
+  ## Creación del custom hook useAuth
+      - Uso de cookie y de axios.
+      - Instalación npm install js-cookie axios
