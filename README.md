@@ -31,3 +31,6 @@
       - Uso de cookies y desarrollando la muestra de errores al momento de iniciar login.
   ## Guardado del token en una cookie para mantener la sesión
       - Manteniendo la sesión del usuario.
+  ## Usando nuestro useAuth para cargar la información del usuario
+      - Cargando la información del usuario dentro del dashboard.
+      - Generar un imagen basado en la información "https://ui-avatars.com/"
