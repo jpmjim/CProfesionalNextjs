@@ -19,3 +19,5 @@
       - Trayendo elementos de esta pagina "https://github.com/GNDX/NEXTJS-UI"
   ## Creación del layout principal e integración de los Page Components
       - Creación de nuestro Layout principal.
+  ## Creando la lógica del componente login
+      - Trabajando en el Login
