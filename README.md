@@ -28,5 +28,6 @@
       - Instalación npm install js-cookie axios
   ## Autenticándonos en la API usando Axios
   ## Obteniendo el token de la API
-      - Uso de cookies y desarrollando la muestra de errores al momento de iniciar login
-      
+      - Uso de cookies y desarrollando la muestra de errores al momento de iniciar login.
+  ## Guardado del token en una cookie para mantener la sesión
+      - Manteniendo la sesión del usuario.
