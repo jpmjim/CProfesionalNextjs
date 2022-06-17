@@ -21,3 +21,5 @@
       - Creación de nuestro Layout principal.
   ## Creando la lógica del componente login
       - Trabajando en el Login
+  ## Presentación de la API
+      - Usando esta API https://api.escuelajs.co/docs/#/
