@@ -27,4 +27,6 @@
       - Uso de cookie y de axios.
       - Instalación npm install js-cookie axios
   ## Autenticándonos en la API usando Axios
+  ## Obteniendo el token de la API
+      - Uso de cookies y desarrollando la muestra de errores al momento de iniciar login
       
