@@ -17,3 +17,5 @@
       - https://tailwindui.com/components/marketing/sections/heroes "UI que usaremos"
   ## Commons Components
       - Trayendo elementos de esta pagina "https://github.com/GNDX/NEXTJS-UI"
+  ## Creación del layout principal e integración de los Page Components
+      - Creación de nuestro Layout principal.
