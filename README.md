@@ -57,4 +57,6 @@
       - Actualización del producto "Edición".
       - http://localhost:3000/dashboard/edit/"numero de id"
   ## Actualizado del producto en la API "Edición de un producto"
-      - Utilizaremos Link y use Route de Nexyjs para direccionamiento. 
+      - Utilizaremos Link y use Route de Nexyjs para direccionamiento.
+  ## Implementación del logout
+      - Cerrar sesión para que nos dirija a la página de login.

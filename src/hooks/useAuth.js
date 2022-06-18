@@ -33,11 +33,20 @@ function useProvideAuth() {
       setUser(user);
     }
   };
+
+  const logout = () => {
+    Cookie.remove('token');
+    setUser(null);
+    delete axios.defaults.headers.Authorization;
+    window.location.href = '/login';
+  };
+
   const [error, setError] = useState();
   return {
     user,
     error,
     setError,
     signIn,
+    logout,
   };
 }
