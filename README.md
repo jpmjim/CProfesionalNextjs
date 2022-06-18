@@ -47,4 +47,5 @@
       - Para validación de datos podemos usar "npm install react-hook-form"
   ## Inserción de los datos del producto en la API
       - Envio de datos a la API.
-      
+  ## Creación del componente Alert
+      - Cuando un archivo fue agregado dentro de la lista de productos.
