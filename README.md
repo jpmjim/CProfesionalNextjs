@@ -51,3 +51,5 @@
       - Cuando un archivo fue agregado dentro de la lista de productos.
   ## Implementación de nuestro componente Alert
       - Desencadenar la alerta al obtener un nuevo producto.
+  ## Eliminando productos de la API
+      - Eliminación de productos.
