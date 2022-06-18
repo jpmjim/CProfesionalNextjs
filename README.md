@@ -38,3 +38,5 @@
       - Creando el componente Chart construcción de gráficas. npm install chart.js react-chartjs-2.
       - UI https://daisyui.com/
       - Chart https://www.chartjs.org/
+  ## Conexión del modal para crear productos
+      - Utlizaremos UI https://tailwindui.com/components/application-ui/headings/page-headings
