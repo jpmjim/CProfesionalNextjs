@@ -56,3 +56,5 @@
   ## Creación y cargado de datos para actualizar un producto
       - Actualización del producto "Edición".
       - http://localhost:3000/dashboard/edit/"numero de id"
+  ## Actualizado del producto en la API "Edición de un producto"
+      - Utilizaremos Link y use Route de Nexyjs para direccionamiento. 
