@@ -34,3 +34,7 @@
   ## Usando nuestro useAuth para cargar la información del usuario
       - Cargando la información del usuario dentro del dashboard.
       - Generar un imagen basado en la información "https://ui-avatars.com/"
+  ## Creando el componente Chart
+      - Creando el componente Chart construcción de gráficas. npm install chart.js react-chartjs-2.
+      - UI https://daisyui.com/
+      - Chart https://www.chartjs.org/
