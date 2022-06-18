@@ -45,3 +45,6 @@
       - Instalación del recurso para formularios dentro de tailwind "npm i @tailwindcss/forms"
       - Esquema como debemos añadir nuevos productos "https://api.escuelajs.co/docs/#/products/ProductsController_create"
       - Para validación de datos podemos usar "npm install react-hook-form"
+  ## Inserción de los datos del producto en la API
+      - Envio de datos a la API.
+      
