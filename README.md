@@ -40,3 +40,8 @@
       - Chart https://www.chartjs.org/
   ## Conexión del modal para crear productos
       - Utlizaremos UI https://tailwindui.com/components/application-ui/headings/page-headings
+  ## Construcción del formulario para crear nuevos productos
+      - https://tailwindui.com/components/application-ui/forms/form-layouts "UI que usaremos"
+      - Instalación del recurso para formularios dentro de tailwind "npm i @tailwindcss/forms"
+      - Esquema como debemos añadir nuevos productos "https://api.escuelajs.co/docs/#/products/ProductsController_create"
+      - Para validación de datos podemos usar "npm install react-hook-form"
