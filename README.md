@@ -60,3 +60,11 @@
       - Utilizaremos Link y use Route de Nexyjs para direccionamiento.
   ## Implementación del logout
       - Cerrar sesión para que nos dirija a la página de login.
+  ## Haciendo el deploy de nuestra aplicación en Vercel
+      - Validación de standares de vercel ejecución de scripts
+        - npm run build
+        - npm run lint:fix nos permite fixear algunos errores, pero no repara los demás elementos.
+      - Como ignorar los errores pero con cuidado dentro del archivo "next.config.js".
+        - Pero siempre corregir los errores para poder hacer el deploy.
+        - eslint: { ignoreDuringBuilds: true, },
+        - npm run build "asi ignorara los errores".
