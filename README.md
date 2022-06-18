@@ -53,3 +53,6 @@
       - Desencadenar la alerta al obtener un nuevo producto.
   ## Eliminando productos de la API
       - Eliminación de productos.
+  ## Creación y cargado de datos para actualizar un producto
+      - Actualización del producto "Edición".
+      - http://localhost:3000/dashboard/edit/"numero de id"
